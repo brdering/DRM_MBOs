@@ -1,0 +1,13 @@
+﻿Group,Alcohol,FAType,Mean,StdEr
+Control,Before,Critical,0.725539,0.06842807
+Control,After,Critical,0.4871476,0.06855436
+MBO,Before,Critical,0.785546,0.04352721
+MBO,After,Critical,0.5673387,0.06373186
+Control,Before,Weak,0.2382531,0.03246608
+Control,After,Weak,0.1553824,0.02482539
+MBO,Before,Weak,0.2180806,0.03732817
+MBO,After,Weak,0.1962726,0.03324142
+Control,Before,Unrelated,0.06647099,0.01618784
+Control,After,Unrelated,0.06388122,0.01161392
+MBO,Before,Unrelated,0.09086944,0.0150419
+MBO,After,Unrelated,0.09159639,0.02207508
